@@ -1,0 +1,38 @@
+{
+  "Card": {
+    "description": "Auto imported from components/Card.vue"
+  },
+  "CardEvent": {
+    "description": "Auto imported from components/CardEvent.vue"
+  },
+  "CardItineraries": {
+    "description": "Auto imported from components/CardItineraries.vue"
+  },
+  "CardService": {
+    "description": "Auto imported from components/CardService.vue"
+  },
+  "CarouselSm": {
+    "description": "Auto imported from components/CarouselSm.vue"
+  },
+  "ItinCard": {
+    "description": "Auto imported from components/itinCard.vue"
+  },
+  "ListMapToggler": {
+    "description": "Auto imported from components/listMapToggler.vue"
+  },
+  "ListOfServices": {
+    "description": "Auto imported from components/listOfServices.vue"
+  },
+  "PoiCard": {
+    "description": "Auto imported from components/poiCard.vue"
+  },
+  "PoiItineraryCard": {
+    "description": "Auto imported from components/PoiItineraryCard.vue"
+  },
+  "PointOfInterest": {
+    "description": "Auto imported from components/pointOfInterest.vue"
+  },
+  "TheHeader": {
+    "description": "Auto imported from components/TheHeader.vue"
+  }
+}

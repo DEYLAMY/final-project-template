@@ -1,0 +1,79 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_32d51a46"
+  },
+  {
+    "name": "all-events",
+    "path": "/all-events",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-events\\\\index.vue",
+    "chunkName": "pages/all-events/index",
+    "_name": "_66af363d"
+  },
+  {
+    "name": "all-places",
+    "path": "/all-places",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-places\\\\index.vue",
+    "chunkName": "pages/all-places/index",
+    "_name": "_74439dd5"
+  },
+  {
+    "name": "all-festival",
+    "path": "/all-festival",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-festival\\\\index.vue",
+    "chunkName": "pages/all-festival/index",
+    "_name": "_400b80ed"
+  },
+  {
+    "name": "all-artist",
+    "path": "/all-artist",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-artist\\\\index.vue",
+    "chunkName": "pages/all-artist/index",
+    "_name": "_19b43250"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_35dabc4b"
+  },
+  {
+    "name": "all-events-event",
+    "path": "/all-events/event",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-events\\\\event\\\\index.vue",
+    "chunkName": "pages/all-events/event/index",
+    "_name": "_372858dd"
+  },
+  {
+    "name": "all-places-itinerary",
+    "path": "/all-places/places",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-places\\\\places\\\\index.vue",
+    "chunkName": "pages/all-places/itinerary/index",
+    "_name": "_a0371698"
+  },
+  {
+    "name": "all-festival-festival",
+    "path": "/all-festival/festival",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-festival\\\\festival\\\\index.vue",
+    "chunkName": "pages/all-festival/festival/index",
+    "_name": "_64a3c486"
+  },
+  {
+    "name": "all-artist-artist",
+    "path": "/all-artist/artist",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-artist\\\\artist\\\\index.vue",
+    "chunkName": "pages/all-artist/artist/index",
+    "_name": "_5692c467"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_064d4da2"
+  }
+]
