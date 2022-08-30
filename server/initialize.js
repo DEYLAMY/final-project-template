@@ -531,14 +531,14 @@ export default async (models) => {
         },
         {
             type: "Getting to Montreal",
-            imgPath: "https://images.unsplash.com/photo-1485833380722-ff5c9b742ce4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-            description: "Planes, trains, and automobiles! You can even take a ferry to beautiful Montreal. Choose what works for your budget and schedule. ",
+            imgPath: "https://www.ridcc.com/site/wp-content/uploads/2020/01/sharon-eyal-screenshot--1100x595.png",
+            description: "Alongside their work with L-E-V, Eyal and Behar had also been commissioned to create for external companies such as Bedroom Folk, Salt Womb, Feelings and Sara for the Nederland Dance Theatre; Strong  for StaatsBallett, Berlin, Germany, Faunes for The Paris Opera, France Half Life for the Royal Swedish Ballet; Untitled Black and Autodance for GöteborgsOperans Danskompani, Sweden; Killer Pig and Corps de Walk for Carte Blanche Dance of Norway; Too Beaucoup for Hubbard Street Dance Chicago; Plafona for Tanzcompagnie Oldenburg Germany; Promise, Soul Chain for Staatstheater Mainz, Germany and more.",
 
         },
         {
             type: "Tourism Infopoints",
-            imgPath: "https://images.unsplash.com/photo-1532299039866-065669a2d5df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1276&q=80",
-            description: "Offices around the city are open to help you plan your trip and navigate the city. Visit to ask questions and get visitor materials in English or French. ",
+            imgPath: "http://iicparigi.esteri.it/iic_parigi/resource/img/2022/03/gs.png",
+            description: "Graduated in piano at the Conservatory of Vicenza with 10 laude and honorable mention under the guidance of Riccardo Zadra and Roberto Prosseda, he currently attends the Master's degree at Yale University with Boris Berman, where in the first year of studies he was the winner of the "Charles R. Miller Prize" as 'outstanding pianist' of the year.",
 
         },
         {
