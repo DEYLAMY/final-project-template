@@ -6,7 +6,7 @@
       class="container-lg container-fluid-md my-3 pb-2"
     >
       <h1 class="lead py-3 px-5 text-light" id="caption">
-        Services: {{ type }}
+        Artists: {{ type }}
       </h1>
       <div class="row my-2 px-5 d-flex justify-content-center">
         <div class="col-md-4 col-sm-3 col-12">
