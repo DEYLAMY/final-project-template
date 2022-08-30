@@ -519,14 +519,14 @@ export default async (models) => {
         },
         {
             type: "Outdoor Fun",
-            imgPath: "https://images.unsplash.com/photo-1574607076416-1b1cbd1846a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            description: "Enjoy Montreal like a local! Grab a scooter or e-bike for those hills, or learn to love winter with a nordic ski rental on the mountain and a pair of skates by the St.Lawrence river. Have fun!",
+            imgPath: "https://beatricebresolin.it/wp-content/uploads/2019/11/Beatrice017-1024x768.jpg",
+            description: "She makes work for the stage and for urban and natural contexts, in dialogue with the environment, architecture, works of art and people, significantly relying on the senses. Her practice acknowledges the body as the place of being, as a tool to know the world and as a source of knowledge itself. The art of words fascinates and helps her as well, as a tool for conceptualization, communication, and imagination.",
 
         },
         {
             type: "Safety",
-            imgPath: "https://images.unsplash.com/photo-1595277542060-6324da6d30f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1153&q=80",
-            description: "We all need a hand sometimes. Volunteers are available for crisis situations, and the Nightline is open to any call for any reason. Walksafe will send a car or a buddy to help you get home after a late night, for free. ",
+            imgPath: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwoWSjf6kkoYhmIP8X0Feowt5Z57rjlwDe_w&usqp=CAU",
+            description: "His work questions the role and functioning of memory, and focuses on the relationship between performer and spectator. Dance, a complex geography in which sounds, words and movements constantly collide, tends towards the emotional compromise of the ones who perform and the ones who watch.",
 
         },
         {
