@@ -12,23 +12,15 @@
         <div class="col-md-4 col-sm-3 col-12">
           <img
             class="img-fluid img-header"
-            src="https://www.mtl.org/sites/default/files/styles/playlist_banner_big/public/2020-11/44766.jpg?itok=_XT3mMhv"
+            src="https://i.ytimg.com/vi/EmMTKdUAokM/maxresdefault.jpg"
           />
         </div>
         <div
           class="col-md-8 col-9 col-sm-9 my-sm-auto text-center text-sm-start"
         >
           <p class="text-light">
-            While Montrealers love to have fun, they're also very serious about
-            health, the environment, and taking care of their fellow citizens.
-            The city boasts fantastic outdoor activities, eco-friendly (and
-            budget friendly) travel options, and internationally ranked
-            hospitals. The bilingual nature of the city means all of these
-            services, including banks, emergency services, and ameneties are
-            available in English or French. Canadians do love to help, but you
-            can start here for the basics of where to manage your money, pay for
-            parking, and where to rest your head at night. Have fun and be safe!
-          </p>
+              Here is the list of Festivals that this specific artist act in it
+           </p>
         </div>
       </div>
       <div class="row my-2 justify-content-end px-5">
