@@ -514,7 +514,7 @@ export default async (models) => {
        {
             type: "Transportation in the City",
             imgPath: "https://images.unsplash.com/photo-1569596602585-8d101a0d150b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
-            description: "It's easy to get around this mid-sized city, no matter what the weather! Hop on a Bixi bike, check out the art in underground Metro stations around the city, or call an Uber after a long day sightseeing. You've got options!",
+            description: "ptions!",
 
         },
         {
