@@ -544,31 +544,31 @@ export default async (models) => {
         {
             type: "Emergency Services",
             imgPath: "https://angartwork.akamaized.net/?id=1061186&size=640",
-            description: "In case of an emergency, call 911 to reach all emergency services. Service is multilingual, so don't hesitate to call. ",
+            description: "German pianist and (film-) composer Christian Pabst is a true storyteller.While being deeply rooted and connected to the greats of jazz, Christian developed an original, strong and genre transcending voice as a pianist and composer. Finding inspiration not only in the magnificent diversity of the arts but also in travelling and everyday life, his radiant music is very visual and inspires your imagination. “I want to create music that speaks to the heart and the mind alike” says the pianist. ",
 
         },
         {
             type: "Top Hotels",
             imgPath: "http://www.fazioli.com/sites/default/files/concerthall/sito_1140x858_armellini.png",
-            description: "Montreal is brimming with hotels for every style and budget: luxury or boutique, designer or hostel, you're sure to find somewhere you'll feel at home. ",
+            description: "She graduated summa cum laude at the age of 17 at the National Academy of S. Cecilia in Rome, under the guidance of Sergio Perticaroli and her artistic development is also influenced by Lilya Zilberstein (Musikhochschule Hamburg) and Boris Petrushansky (Accademia Pianistica “Incontri col Maestro”, Imola).",
 
         },
         {
             type: "Hospitals",
             imgPath: "https://www2.kronbergacademy.de/fileadmin/_processed_/1/d/csm_piccotti-erica_01_ae20ab0ef5.jpg",
-            description: "We wish you a safe stay in Montreal, but life can be unpredicatable. If you need to seek medical attention, rest assured that Montreal is home to a large number of hospitals, many of which are internationally ranked in their specialties. ",
+            description: "She won first prizes in national and international competitions including Rassegna Nazionale d’Archi di Vittorio Veneto, Premio Nazionale delle Arti run by Italy.",
 
         },
         {
             type: "Banks",
             imgPath: "https://spettacolo.emiliaromagnacultura.it/wp-content/uploads/2021/10/1469cc68a2ae8fe0e9f8d7cdc82022e8-malosti-foto-di-laila-pozzi-363x235.png",
-            description: "Unfortunately, travel costs! While Montreal is famous for being an affordable city, you'l still need to withdraw at some point in your stay. Trust any of the following institutions, which are ready to serve you in English ro French. ",
+            description: "prestigious theatres and festivals in Italy and worldwide.",
 
         },
         {
             type: "Helpful Apps",
             imgPath: "https://www.teatriincomune.roma.it/wp-content/uploads/2018/08/roberto-latini-pdf.jpg",
-            description: "Stay informed with these hand smartphone apps. Find your way in the city with Transit, pay for parking from the comfort of your table with P$ service mobile, and check in o current events around you with Canada's leading news source. ",
+            description: "He enrolled in the acting school Il Mulino di Fiora, directed by Perla Peragallo, where he graduated in 1992. With his classmates Nicola D'Angelis and Maximilian La Monica founded the Associazione Teatro Es. In the meantime he completed his studies at the Faculty of Letters and Philosophy of the University of Rome",
 
         }
 
