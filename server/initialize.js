@@ -513,20 +513,20 @@ export default async (models) => {
     const AllService = [
        {
             type: "Transportation in the City",
-            imgPath: "http://5b0988e595225.cdn.sohucs.com/images/20171117/170ec0499b7a4d78bcfe144c238e1e44.jpeg",
-            description: "Aterballetto Is the most important dance creation and performance group in Italy, and is the first permanent dance group independent of the opera house system.  Aterballetto was founded in 1979, and its first artistic director was Amedeo Ammodio. During his nearly 20 years in office (until 1996), the company amassed a large repertoire of repertoire, including works choreographed by Amoudio, as well as works by the most important international choreographers Goran Tateley, Alvin Eli, Lucinda Charles and other masters. In 1991,  Aterballetto became a group affiliated with the "Regional Dance Center", an artistic group jointly organized by the city of LeZot Emilia, emilia-Romagna and the Emilia-Romagna Dance Association, dedicated to dance creation, with an international vision of the functions of repertoire production, promotion, dissemination, training, learning and research, and performing in regular dance seasons. In 1996, Federico Greeley became President and Head of the Association Dance Company, and under his leadership, it was renamed the Dance Center in 2001 and began to expand its horizons to Italy, Europe and the global region. Since April 2003, the Dance Center has become a dance group under the National Dance Foundation. At present, the reserved program of Aterballetto includes works choreographed by the following artists: Mauro Bigonzetti, Michel Abundonza and Andonella Bertone, Itkik Galilee, and other young European choreographers, as well as internationally renowned artists such as William Forster and Girrie Killen.",
+            imgPath: "https://images.unsplash.com/photo-1569596602585-8d101a0d150b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+            description: "It's easy to get around this mid-sized city, no matter what the weather! Hop on a Bixi bike, check out the art in underground Metro stations around the city, or call an Uber after a long day sightseeing. You've got options!",
 
         },
         {
             type: "Outdoor Fun",
             imgPath: "https://images.unsplash.com/photo-1574607076416-1b1cbd1846a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            description: "Beatrice Bresolin is an Italian freelance dancer, choreographer and educator, co-founder of the cultural association BASE9. Key words of her practice, and life, are awareness, availability, listening, encounter and relation, persuaded that dance and life function according to the same mechanisms and set of values.She makes work for the stage and for urban and natural contexts, in dialogue with the environment, architecture, works of art and people, significantly relying on the senses. Her practice acknowledges the body as the place of being, as a tool to know the world and as a source of knowledge itself. The art of words fascinates and helps her as well, as a tool for conceptualization, communication, and imagination.",
+            description: "Enjoy Montreal like a local! Grab a scooter or e-bike for those hills, or learn to love winter with a nordic ski rental on the mountain and a pair of skates by the St.Lawrence river. Have fun!",
 
         },
         {
             type: "Safety",
             imgPath: "https://images.unsplash.com/photo-1595277542060-6324da6d30f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1153&q=80",
-            description: "Marco D’Agostin is an Italian artist active in the fields of dance and performance, winner of the UBU award as best performer under 35. He’s an Associated Artist to the Piccolo Teatro in Milan in 22/24.His work questions the role and functioning of memory, and focuses on the relationship between performer and spectator. Dance, a complex geography in which sounds, words and movements constantly collide, tends towards the emotional compromise of the ones who perform and the ones who watch. After training with internationally renowned masters (Yasmeen Godder, Nigel Charnock, Rosemary Butcher, Wendy Houstoun, Emio Greco), he began his career as an interpreter, dancing for, among others, Claudia Castellucci / Socìetas Raffaello Sanzio, Alessandro Sciarroni, Liz Santoro, Iris Erez, Tabea Martin.",
+            description: "We all need a hand sometimes. Volunteers are available for crisis situations, and the Nightline is open to any call for any reason. Walksafe will send a car or a buddy to help you get home after a late night, for free. ",
 
         },
         {
