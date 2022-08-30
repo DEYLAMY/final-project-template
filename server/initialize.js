@@ -538,7 +538,7 @@ export default async (models) => {
         {
             type: "Tourism Infopoints",
             imgPath: "http://iicparigi.esteri.it/iic_parigi/resource/img/2022/03/gs.png",
-            description: "Graduated in piano at the Conservatory of Vicenza with 10 laude and honorable mention under the guidance of Riccardo Zadra and Roberto Prosseda, he currently attends the Master's degree at Yale University with Boris Berman, where in the first year of studies he was the winner of the "Charles R. Miller Prize" as 'outstanding pianist' of the year.",
+            description: "Graduated in piano at the Conservatory of Vicenza with 10 laude and honorable mention under the guidance of Riccardo Zadra and Roberto Prosseda, he currently attends the Master's degree at Yale University with Boris Berman.",
 
         },
         {
