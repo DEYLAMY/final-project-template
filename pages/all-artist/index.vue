@@ -5,25 +5,17 @@
       style="background-color: #042a2b"
       class="container-lg container-fluid-sm my-2 pt-3 pb-5"
     >
-      <h1 class="lead py-3 px-5 text-light" id="caption">All Services</h1>
+      <h1 class="lead py-3 px-5 text-light" id="caption">Artists</h1>
       <div class="row my-2 px-5 d-flex justify-content-center">
         <div class="col-md-4 col-sm-3 col-12">
           <img
             class="img-fluid shadow img-header"
-            src="https://www.tripsavvy.com/thmb/0lQKWxZ0ZzKEi9cpnabX85PLSo0=/3709x3709/smart/filters:no_upscale()/canada-quebec-montreal-place-du-canada-and-dorchester-square-cathedral-basilica-of-mary-156848501-5915e3e55f9b58647087f371.jpg"
+            src="https://bluethumb.com.au/blog/wp-content/uploads/2020/06/Screen-Shot-2020-06-15-at-16.30.54.png"
           />
         </div>
         <div class="col-md-8 col-9 col-sm-9 my-auto text-center text-sm-start">
           <p class="text-light">
-            While Montrealers love to have fun, they're also very serious about
-            health, the environment, and taking care of their fellow citizens.
-            The city boasts fantastic outdoor activities, eco-friendly (and
-            budget friendly) travel options, and internationally ranked
-            hospitals. The bilingual nature of the city means all of these
-            services, including banks, emergency services, and ameneties are
-            available in English or French. Canadians do love to help, but you
-            can start here for the basics of where to manage your money, pay for
-            parking, and where to rest your head at night. Have fun and be safe!
+            an Artist is a person who creates art (such as painting, sculpture, music, or writing) using conscious skill and creative imagination the great artists of the Renaissance an artist specializing in watercolors.in this page you can see the list of artists
           </p>
         </div>
       </div>
