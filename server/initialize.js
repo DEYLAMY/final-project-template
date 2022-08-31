@@ -296,35 +296,35 @@ export default async (models) => {
             Neighbourhood: "East",
         },
         {
-            heading: "Gare d'autocars de Montréal",
-            location: "1717 Berri Street\nMontréal, QC\nH2L 4E9",
-            hours: "24/7",
-            url: "https://www.gamtl.com/en/bienvenue/",
-            type: "Getting to Montreal",
+            heading: "Gianni Schicchi | Film",
+            location: "Montreal-Montreal Park",
+            hours: "20 Sep - 29 Sep",
+            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=6",
+            type: "Sharon Eyal",
             Neighbourhood: "East",
         },
         {
-            heading: "VIA Rail Canada",
-            location: "895 De La Gauchetière Street West\nMontréal, QC\nH3B 4G1",
-            hours: "7 AM - 11 PM",
-            url: "https://www.viarail.ca/en",
-            type: "Getting to Montreal",
+            heading: "Il canto degli ulivi | I Bassifondi",
+            location: "Florence-Pitti Palace",
+            hours: "1 Sep - 9 Sep",
+            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=4",
+            type: "Sharon Eyal",
             Neighbourhood: "South",
         },
         {
-            heading: "Montréal-Trudeau International Airport",
-            location: "YUL Montréal-Trudeau International Airport\nDorval, QC\nH4Y 1H1",
-            hours: "24/7",
-            url: "https://www.admtl.com/en",
-            type: "Getting to Montreal",
+            heading: "TOSCA",
+            location: "London-London-Hyde Park",
+            hours: "6 Sep - 7 Sep",
+            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=10",
+            type: "Sharon Eyal",
             Neighbourhood: "West",
         },
         {
-            heading: "Grand Quay - Cruise Terminal",
-            location: "Grand Quai du Port de Montréal\nOld Port of Montréal\nMontréal, QC\nH2Y 4B2",
-            hours: "11 AM - 7 PM",
-            url: "https://www.port-montreal.com/en/cruises",
-            type: "Getting to Montreal",
+            heading: "Puglia Dance and Tarantula Spider Night",
+            location: "Florence-Pitti Palace",
+            hours: "2 Sep - 4 Sep",
+            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=1",
+            type: "Sharon Eyal",
             Neighbourhood: "East",
         },
         {
@@ -530,7 +530,7 @@ export default async (models) => {
 
         },
         {
-            type: "Getting to Montreal",
+            type: "Sharon Eyal",
             imgPath: "https://www.ridcc.com/site/wp-content/uploads/2020/01/sharon-eyal-screenshot--1100x595.png",
             description: "Alongside their work with L-E-V, Eyal and Behar had also been commissioned to create for external companies such as Bedroom Folk, Salt Womb, Feelings and Sara for the Nederland Dance Theatre; Strong  for StaatsBallett, Berlin, Germany, Faunes for The Paris Opera, France Half Life for the Royal Swedish Ballet; Untitled Black and Autodance for GöteborgsOperans Danskompani, Sweden; Killer Pig and Corps de Walk for Carte Blanche Dance of Norway; Too Beaucoup for Hubbard Street Dance Chicago; Plafona for Tanzcompagnie Oldenburg Germany; Promise, Soul Chain for Staatstheater Mainz, Germany and more.",
 
@@ -571,7 +571,7 @@ export default async (models) => {
             description: "He enrolled in the acting school Il Mulino di Fiora, directed by Perla Peragallo, where he graduated in 1992. With his classmates Nicola D'Angelis and Maximilian La Monica founded the Associazione Teatro Es. In the meantime he completed his studies at the Faculty of Letters and Philosophy of the University of Rome",
 
         }
-
+  
     ]
     await models.AllService.bulkCreate(AllService)
 
