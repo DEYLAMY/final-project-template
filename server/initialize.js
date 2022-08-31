@@ -197,7 +197,6 @@ export default async (models) => {
             hours: "23 Sep - 26 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=8",
             type: "Aterballetto",
-            Neighbourhood: "East",
         },
         {
             heading: "Gianni Schicchi | Film",
@@ -205,7 +204,6 @@ export default async (models) => {
             hours: "20 Sep - 29 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=6",
             type: "Aterballetto",
-            Neighbourhood: "East",
         },
         {
             heading: "Il canto degli ulivi | I Bassifondi",
@@ -213,7 +211,6 @@ export default async (models) => {
             hours: "1 Sep - 9 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=4",
             type: "Aterballetto",
-            Neighbourhood: "South",
         },
         {
             heading: "Anna Pirozzi",
@@ -221,7 +218,6 @@ export default async (models) => {
             hours: "6 Sep - 9 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=3",
             type: "Aterballetto",
-            Neighbourhood: "West",
         },
         {
             heading: "Pretty Yende",
@@ -229,7 +225,6 @@ export default async (models) => {
             hours: "6 Sep - 8 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=2",
             type: "Aterballetto",
-            Neighbourhood: "East",
         },
         {
             heading: "Puglia Dance and Tarantula Spider Night",
@@ -237,7 +232,6 @@ export default async (models) => {
             hours: "2 Sep - 4 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=1",
             type: "Aterballetto",
-            Neighbourhood: "South",
         },
         {
             heading: "Silent Carmen",
@@ -245,7 +239,6 @@ export default async (models) => {
             hours: "23 Sep - 26 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=8",
             type: "Beatrice Bresolin",
-            Neighbourhood: "East",
         },
         {
             heading: "Puglia Dance and Tarantula Spider Night",
@@ -253,7 +246,6 @@ export default async (models) => {
             hours: "2 Sep - 4 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=1",
             type: "Beatrice Bresolin",
-            Neighbourhood: "South",
         },
         {
             heading: "TOSCA",
@@ -261,7 +253,6 @@ export default async (models) => {
             hours: "6 Sep - 7 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=10",
             type: "Beatrice Bresolin",
-            Neighbourhood: "West",
         },
         {
             heading: "Puglia Dance and Tarantula Spider Night",
@@ -269,7 +260,6 @@ export default async (models) => {
             hours: "2 Sep - 4 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=1",
             type: "Marco D’Agostin",
-            Neighbourhood: "East",
         },
         {
             heading: "MADAMA BUTTERFLY",
@@ -277,7 +267,6 @@ export default async (models) => {
             hours: "20 Sep - 26 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=9",
             type: "Marco D’Agostin",
-            Neighbourhood: "South",
         },
         {
             heading: "Silent Carmen",
@@ -285,7 +274,6 @@ export default async (models) => {
             hours: "23 Sep - 26 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=8",
             type: "Marco D’Agostin",
-            Neighbourhood: "West",
         },
         {
             heading: "Magic of a Star",
@@ -293,7 +281,6 @@ export default async (models) => {
             hours: "7 Sep - 8 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=7",
             type: "Marco D’Agostin",
-            Neighbourhood: "East",
         },
         {
             heading: "Gianni Schicchi | Film",
@@ -301,7 +288,6 @@ export default async (models) => {
             hours: "20 Sep - 29 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=6",
             type: "Sharon Eyal",
-            Neighbourhood: "East",
         },
         {
             heading: "Il canto degli ulivi | I Bassifondi",
@@ -309,7 +295,6 @@ export default async (models) => {
             hours: "1 Sep - 9 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=4",
             type: "Sharon Eyal",
-            Neighbourhood: "South",
         },
         {
             heading: "TOSCA",
@@ -317,7 +302,6 @@ export default async (models) => {
             hours: "6 Sep - 7 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=10",
             type: "Sharon Eyal",
-            Neighbourhood: "West",
         },
         {
             heading: "Puglia Dance and Tarantula Spider Night",
@@ -325,7 +309,6 @@ export default async (models) => {
             hours: "2 Sep - 4 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=1",
             type: "Sharon Eyal",
-            Neighbourhood: "East",
         },
         {
             heading: "Puglia Dance and Tarantula Spider Night",
@@ -333,7 +316,6 @@ export default async (models) => {
             hours: "2 Sep - 4 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=1",
             type: "Gabriele Strata",
-            Neighbourhood: "South",
         },
         {
             heading: "Pretty Yende",
@@ -341,7 +323,6 @@ export default async (models) => {
             hours: "6 Sep - 8 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=2",
             type: "Gabriele Strata",
-            Neighbourhood: "West",
         },
         {
             heading: "Puglia Dance and Tarantula Spider Night",
@@ -349,7 +330,6 @@ export default async (models) => {
             hours: "2 Sep - 4 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=1",
             type: "Christian Pabst",
-            Neighbourhood: "West",
         },
         {
             heading: "Pretty Yende",
@@ -357,7 +337,6 @@ export default async (models) => {
             hours: "6 Sep - 8 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=2",
             type: "Christian Pabst",
-            Neighbourhood: "East",
         },
         {
             heading: "Magic of a Star",
@@ -365,7 +344,6 @@ export default async (models) => {
             hours: "6 Sep - 8 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=7",
             type: "Leonora Armellini",
-            Neighbourhood: "South",
         },
         {
             heading: "Silent Carmen",
@@ -373,7 +351,6 @@ export default async (models) => {
             hours: "Venice-St. Mark's Square",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=8",
             type: "Leonora Armellini",
-            Neighbourhood: "East",
         },
         {
             heading: "Pretty Yende",
@@ -381,7 +358,6 @@ export default async (models) => {
             hours: "1 Sep - 9 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=4",
             type: "Erica Piccotti",
-            Neighbourhood: "East",
         },
         {
             heading: "Il canto degli ulivi | Giulia Semenzato",
@@ -389,7 +365,6 @@ export default async (models) => {
             hours: "10 Sep - 19 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=5",
             type: "Erica Piccotti",
-            Neighbourhood: "West",
         },
         {
             heading: "Gianni Schicchi | Film",
@@ -397,7 +372,6 @@ export default async (models) => {
             hours: "20 Sep - 29 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=6",
             type: "ERT Emilia Romagna Teatro ",
-            Neighbourhood: "South",
         },
         {
             heading: "Magic of a Star",
@@ -405,7 +379,6 @@ export default async (models) => {
             hours: "7 Sep - 8 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=7",
             type: "ERT Emilia Romagna Teatro",
-            Neighbourhood: "East",
         },
         {
             heading: "Silent Carmen",
@@ -413,7 +386,6 @@ export default async (models) => {
             hours: "23 Sep - 26 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=8",
             type: "Roberto Latini",
-            Neighbourhood: "West",
         },
         {
             heading: "MADAMA BUTTERFLY",
@@ -421,7 +393,6 @@ export default async (models) => {
             hours: "20 Sep - 26 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=9",
             type: "Roberto Latini",
-            Neighbourhood: "East",
         },
 
     ]
