@@ -534,7 +534,7 @@ export default async (models) => {
 
         },
         {
-            type: "Emergency Services",
+            type: "Christian Pabst",
             imgPath: "https://angartwork.akamaized.net/?id=1061186&size=640",
             description: "German pianist and (film-) composer Christian Pabst is a true storyteller.While being deeply rooted and connected to the greats of jazz, Christian developed an original, strong and genre transcending voice as a pianist and composer. Finding inspiration not only in the magnificent diversity of the arts but also in travelling and everyday life, his radiant music is very visual and inspires your imagination. “I want to create music that speaks to the heart and the mind alike” says the pianist. ",
 
