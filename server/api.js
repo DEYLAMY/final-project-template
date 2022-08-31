@@ -43,7 +43,6 @@ async function initializeDatabaseConnection() {
         hours: DataTypes.STRING,
         cost: DataTypes.STRING,  
         imgPathText: DataTypes.STRING,
-        imgPathMap: DataTypes.STRING,
         category: DataTypes.STRING,
         url: DataTypes.STRING,
     })
