@@ -328,28 +328,20 @@ export default async (models) => {
             Neighbourhood: "East",
         },
         {
-            heading: "Montréal Infotouriste Centre",
-            location: "1255 Peel Street, Suite 100",
-            hours: "9 AM - 5 PM",
-            url: "https://www.bonjourquebec.com/en-ca",
-            type: "Tourism Infopoints",
+            heading: "Puglia Dance and Tarantula Spider Night",
+            location: "Florence-Pitti Palace",
+            hours: "2 Sep - 4 Sep",
+            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=1",
+            type: "Gabriele Strata",
             Neighbourhood: "South",
         },
         {
-            heading: "Tourist Welcome Office in Old Montréal",
-            location: "174 Notre-Dame Street East",
-            hours: "10 AM - 6 PM",
-            url: "https://www.bonjourquebec.com/en-ca",
-            type: "Tourism Infopoints",
+            heading: "Pretty Yende",
+            location: "Florence-Pitti Palace",
+            hours: "6 Sep - 8 Sep",
+            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=2",
+            type: "Gabriele Strata",
             Neighbourhood: "West",
-        },
-        {
-            heading: "Montréal Professional Tourist Guides Association",
-            location: "C.P. 182, succursale Place d’Armes\nMontréal (Québec)  H2Y 3J4\nCANADA",
-            hours: "Hours vary by private guide.",
-            url: "https://www.apgt.ca/en/home/",
-            type: "Tourism Infopoints",
-            Neighbourhood: "East",
         },
         {
             heading: "Firefighting Services",
@@ -536,7 +528,7 @@ export default async (models) => {
 
         },
         {
-            type: "Tourism Infopoints",
+            type: "Gabriele Strata",
             imgPath: "http://iicparigi.esteri.it/iic_parigi/resource/img/2022/03/gs.png",
             description: "Graduated in piano at the Conservatory of Vicenza with 10 laude and honorable mention under the guidance of Riccardo Zadra and Roberto Prosseda, he currently attends the Master's degree at Yale University with Boris Berman.",
 
@@ -571,7 +563,7 @@ export default async (models) => {
             description: "He enrolled in the acting school Il Mulino di Fiora, directed by Perla Peragallo, where he graduated in 1992. With his classmates Nicola D'Angelis and Maximilian La Monica founded the Associazione Teatro Es. In the meantime he completed his studies at the Faculty of Letters and Philosophy of the University of Rome",
 
         }
-  
+        
     ]
     await models.AllService.bulkCreate(AllService)
 
