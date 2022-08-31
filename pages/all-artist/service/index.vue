@@ -23,30 +23,8 @@
            </p>
         </div>
       </div>
-      <div class="row my-2 justify-content-end px-5">
-        <div class="col-md-5 col-sm-6 my-1">
-          <!-- <label for="categoryList2" class="form-label"></label> -->
-          <select
-            class="form-select"
-            name="categoryList"
-            id="categoryList"
-            @change="selectCategory($event)"
-          >
-            <option selected disabled hidden>Neighbourhood</option>
-            <option value="East">East</option>
-            <option value="South">South</option>
-            <option value="West">West</option>
-            <option value="All">All</option>
-          </select>
-        </div>
-      </div>
-      <div class="row my-2 justify-content-end px-5">
-        <div class="col-lg-2 col-md-2 d-grid my-1">
-          <button @click="searchFunction()" class="btn btn-primary rounded">
-            Filter
-          </button>
-        </div>
-      </div>
+
+
     </div>
 
     <div class="container-lg container-fluid" id="listServices">
