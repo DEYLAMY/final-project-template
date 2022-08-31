@@ -77,7 +77,6 @@ async function initializeDatabaseConnection() {
     
 
     const Service = database.define("service", {
-        Neighbourhood: DataTypes.STRING,
         heading: DataTypes.STRING,
         location: DataTypes.STRING,
         type: DataTypes.STRING,
