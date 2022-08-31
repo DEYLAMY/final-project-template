@@ -196,7 +196,7 @@ export default async (models) => {
             location: "Available through the App on iPhone and Android",
             hours: "24/7",
             url: "https://bixi.com/",
-            type: "Transportation in the City",
+            type: "Aterballetto",
             Neighbourhood: "East",
         },
         {
@@ -204,7 +204,7 @@ export default async (models) => {
             location: "700 rue de la Gauchetière, Montreal, Quebec, Canada",
             hours: "6 AM - 8:30 PM",
             url: "https://exo.quebec/en",
-            type: "Transportation in the City",
+            type: "Aterballetto",
             Neighbourhood: "East",
         },
         {
@@ -212,7 +212,7 @@ export default async (models) => {
             location: "800, rue de la Gauchetiere Ouest; Montreal, Quebec; H5A 1J6",
             hours: "5:30 AM to 1 AM",
             url: "https://www.stm.info/en/info/networks/metro",
-            type: "Transportation in the City",
+            type: "Aterballetto",
             Neighbourhood: "South",
         },
         {
@@ -220,7 +220,7 @@ export default async (models) => {
             location: "Available through the App on iPhone and Android",
             hours: "24/7",
             url: "https://www.uber.com/global/en/cities/montreal/",
-            type: "Transportation in the City",
+            type: "Aterballetto",
             Neighbourhood: "West",
         },
         {
@@ -228,7 +228,7 @@ export default async (models) => {
             location: "520 Rue Berri\nMontréal, QC H2Y 1B4",
             hours: "10:30 AM - 6:30 PM",
             url: "https://www.montrealscooter.com/",
-            type: "Transportation in the City",
+            type: "Aterballetto",
             Neighbourhood: "East",
         },
         {
@@ -236,7 +236,7 @@ export default async (models) => {
             location: "Available through the App on iPhone and Android",
             hours: "24/7",
             url: "https://www.uber.com/global/en/cities/montreal/",
-            type: "Transportation in the City",
+            type: "Aterballetto",
             Neighbourhood: "South",
         },
         {
@@ -512,7 +512,7 @@ export default async (models) => {
 
     const AllService = [
        {
-            type: "Transportation in the City",
+            type: "Aterballetto",
             imgPath: "https://dancingopportunities.com/wp-content/uploads/2022/02/Fondazione-Nazionale-della-Danza-Aterballetto-Audition-for-2022-23-Season.jpg",
             description: "At present, the reserved program of Aterballetto includes works choreographed by the following artists: Mauro Bigonzetti, Michel Abundonza and Andonella Bertone, Itkik Galilee, and other young European choreographers, as well as internationally renowned artists such as William Forster and Girrie Killen",
 
