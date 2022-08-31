@@ -250,7 +250,7 @@ export default async (models) => {
         {
             heading: "Puglia Dance and Tarantula Spider Night",
             location: "Florence-Pitti Palace",
-            hours: "Florence-Pitti Palace",
+            hours: "2 Sep - 4 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=1",
             type: "Beatrice Bresolin",
             Neighbourhood: "South",
