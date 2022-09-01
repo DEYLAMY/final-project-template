@@ -442,6 +442,12 @@ export default async (models) => {
 
         },
         {
+            type: "Marco Paolini",
+            imgPath: "https://media.gettyimages.com/photos/marco-paolini-attends-a-photocall-for-la-pelle-dellorso-on-october-27-picture-id618578966?s=612x612",
+            description: "Author and interpreter of a repertoire that belongs to the so-called civil theater, he has been dealing with dramaturgy since the seventies. His activity is distinguished by the taste of the study of texts and the search for sources and for the continuous juxtaposition of facts with theatrical finds often desecrating and ironic; his shows, in this way, deal with complex issues.",
+
+        },
+        {
             type: "Erica Piccotti",
             imgPath: "https://www2.kronbergacademy.de/fileadmin/_processed_/1/d/csm_piccotti-erica_01_ae20ab0ef5.jpg",
             description: "She won first prizes in national and international competitions including Rassegna Nazionale d’Archi di Vittorio Veneto, Premio Nazionale delle Arti run by Italy.",
