@@ -448,6 +448,30 @@ export default async (models) => {
 
         },
         {
+            type: "Mirko Artuso",
+            imgPath: "https://www.themoviedb.org/t/p/w500/v1BQOTylkRGUNP98CSW7n1wpTCG.jpg",
+            description: "He trained working in close collaboration with actors such as:  Laura Curino, Marco Paolini, Eugenio Allegri. His artistic research is based on the continuous comparison between the poetic language of the theater and the interpretation of reality and the places in which it manifests itself. His creations move from the need to tell.",
+
+        },
+        {
+            type: "Simone Piazzola",
+            imgPath: "https://crescendiartists.com/wp-content/uploads/2021/02/Simone-Piazzola-by-Francesca-Marta-2-min-1000x1024.jpg",
+            description: "He has twice won the prestigious Abbiati Prize of theater criticism: in 2015 for his interpretation of the role of Simon Boccanegra and in 2019 for the engraving of the Mass for Rossini by Decca , conductor M ° Riccardo Chailly .",
+
+        },
+        {
+            type: "Grigory Shkarupa",
+            imgPath: "https://berinart.com/img/c/524_thumb.jpg",
+            description: "Grigory Shkarupa started winning prizes at a very young age with his deep, warm and precisely sung bass. In 2011 he was a prizewinner at the 1st Elena Obraztsova International Competition of Young Singers in St. Petersburg. Later followed the Shalyapin International Competition in Yalta, the ‘Three Centuries of the Classical Romance’ International Competition in St. Petersburg, as well as the All-Russian Sviridov Vocal Competition in Kursk.",
+
+        },
+        {
+            type: "Carlos Natale",
+            imgPath: "https://www.qdpnews.it/wp-content/uploads/2019/11/mirko_artuso_moriago_copy.jpg",
+            description: "His actorial skills and his vocal versatility allow him to sing a large repertoire ranging from baroque to contemporary music. He has sung solistic roles in choral symphonic repertoire including “Carmina Burana”, Handel’s “The Messiah”, Puccini’s “Messa di Gloria”, Mozart’s “Messa d ‘incoronation “, “Mass in C Minor “, Beethoven’s “9th Symphony”.",
+
+        },
+        {
             type: "Erica Piccotti",
             imgPath: "https://www2.kronbergacademy.de/fileadmin/_processed_/1/d/csm_piccotti-erica_01_ae20ab0ef5.jpg",
             description: "She won first prizes in national and international competitions including Rassegna Nazionale d’Archi di Vittorio Veneto, Premio Nazionale delle Arti run by Italy.",
