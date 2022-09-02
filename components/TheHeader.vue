@@ -2,7 +2,7 @@
   <div>
     <nav
       class="navbar navbar-expand-lg navbar-dark px-4"
-      style="background-color: #fda5d5"
+      style="background-color: #990000"
     >
       <div class="container-fluid">
         <a class="navbar-brand" href="/">Summer Festival</a>
