@@ -26,7 +26,7 @@
         >
       </div>
       <div class="col-sm col-event shadow btn-home">
-        <NuxtLink to="/all-events"
+        <NuxtLink to="/all-places"
           ><button type="button" class="btn btn-custom">
             Discover Places
           </button></NuxtLink
