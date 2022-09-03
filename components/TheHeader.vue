@@ -41,25 +41,7 @@
         </div>
       </div>
     </nav>
-    <div class="container-md ml-5 my-2">
-      <ol>
-        <li
-          v-for="(crumb, index) in crumbs"
-          :key="index"
-          property="itemListElement"
-        >
-          <NLink property="item" typeof="WebPage" :to="crumb.path">
-            <span property="name" style="font-weight: bold">{{
-              $route.fullPath === crumb.path && title !== null
-                ? title
-                : crumb.title
-            }}</span>
-          </NLink>
-          <span v-if="index != crumbs.length - 1"> > </span>
-          <meta property="position" :content="index + 2" />
-        </li>
-      </ol>
-    </div>
+    
   </div>
 </template>
 
