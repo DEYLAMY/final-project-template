@@ -28,42 +28,7 @@
         </div>
       </div>
     </div>
-    <div class="container-lg container-fluid-md my-3 pb-3">
-      <div class="row my-2 px-5 d-flex justify-content-center">
-        <h2 class="lead text-poi text-dark">Included in the tour:</h2>
-        <div
-          class="col-md-4 col-sm-3 col-12"
-          v-for="(pois, index) of get_all_pois"
-          :key="`card-pois${index}`"
-        >
-          <itinCard
-            class="card-festival"
-            :cardTitle="festival.heading"
-            :imgPath="festival.imgPathMain"
-            :cardDescription="festival.descriptionMain"
-            :month="festival.hours"
-            :id="festival.id"
-          />
-        </div>
-      </div>
-
-      <div class="row my-2 px-5 d-flex justify-content-center">
-        <!-- <img class="img-banner" :src="imgPathMap"/>-->
-        <div class="mapouter">
-          <div class="gmap_canvas">
-            <iframe
-              class="map"
-              id="gmap_canvas"
-              src="https://maps.google.com/maps?q=montr%C3%A9al&t=&z=13&ie=UTF8&iwloc=&output=embed"
-              frameborder="0"
-              scrolling="no"
-              marginheight="0"
-              marginwidth="0"
-            ></iframe>
-          </div>
-        </div>
-      </div>
-    </div>
+    
   </div>
 </template>
 
