@@ -162,7 +162,7 @@ export default {
           path: "/",
         },
         {
-          name: "Events",
+          name: "Festival",
           path: "/all-festival",
         },
         {
