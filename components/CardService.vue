@@ -7,7 +7,7 @@
       <div
         class="col-md-10 col-9 col-sm-9 my-sm-auto text-center text-sm-start"
       >
-        <h5 class="lead my-2">{{ type }}</h5>
+        <h5 class="lead my-2"> Artist </h5>
         <hr />
         <p> {{ description }} </p>
         <div class="row justify-content-center justify-content-md-end">
