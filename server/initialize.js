@@ -431,9 +431,9 @@ export default async (models) => {
         },
 
     ]
-    await models.Service.bulkCreate(Service)
+    await models.Artist.bulkCreate(Artist)
 
-    const AllService = [
+    const AllArtist = [
        {
             type: "Aterballetto",
             imgPath: "https://dancingopportunities.com/wp-content/uploads/2022/02/Fondazione-Nazionale-della-Danza-Aterballetto-Audition-for-2022-23-Season.jpg",
