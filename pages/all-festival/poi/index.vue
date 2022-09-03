@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div style="background-color: #042a2b" class="container-lg container-fluid-md my-3 pb-3">
+    <div style="background-color: #990000" class="container-lg container-fluid-md my-3 pb-3">
       <h1 class="lead py-3 px-5 text-light" id="caption">Festival - Information : {{ heading }}</h1>
       <div class="row my-2 px-5 d-flex justify-content-center">
         <div class="col-md-8 col-9 col-sm-9 my-sm-auto text-center text-sm-start header">
