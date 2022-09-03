@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- top section -->
+    
     <div
       style="background-color: #990000"
       class="container-lg container-fluid-md my-3 pb-2"
