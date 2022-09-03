@@ -2,7 +2,7 @@
   <div>
     <!-- top section -->
     <div
-      style="background-color: #042a2b"
+      style="background-color: #990000"
       class="container-lg container-fluid-md my-3 pb-2"
     >
       <h1 class="lead py-3 px-5 text-light" id="caption">
@@ -65,7 +65,7 @@
 
 .page-item.active .page-link {
   color: #fff;
-  background-color: #042a2b !important;
+  background-color: #990000 !important;
   border-color: #7cc;
 }
 
