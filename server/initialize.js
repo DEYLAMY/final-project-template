@@ -140,14 +140,14 @@ export default async (models) => {
             imgPathMain: "https://giornaledelladanza.com/wp-content/uploads/IMG_6922-3-BOLERO-1.jpg",
             descriptionMain: "It is called Magic of a star a production by Susanna Beltrami.Just in homage to her long career Luciana Savignano tells her audience also proposing in video some precious memorabilia of her career, which she herself will comment live.",
             heading: "Magic of a Star",
-            address: "Madrid-El Retiro Park",
+            address: "Turin-Giardini Reali di Torino",
             hours: "1 Sep - 7 Sep",
             cost: "Free",
             imgPathText: "https://giornaledelladanza.com/wp-content/uploads/IMG_6922-3-BOLERO-1.jpg",
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "theater",
             url: "https://giornaledelladanza.com/luciana-savignano-magia-di-una-stella/",
-            Neighbourhood: "madrid",
+            Neighbourhood: "Turin",
             
         },
         {
@@ -315,7 +315,7 @@ export default async (models) => {
         },
         {
             heading: "Magic of a Star",
-            location: "Madrid-El Retiro Park",
+            location: "Turin-Giardini Reali di Torino",
             hours: "1 Sep - 7 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=7",
             type: "Leonora Armellini",
@@ -350,7 +350,7 @@ export default async (models) => {
         },
         {
             heading: "Magic of a Star",
-            location: "Madrid-El Retiro Park",
+            location: "Turin-Giardini Reali di Torino",
             hours: "1 Sep - 7 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=7",
             type: "ERT Emilia Romagna Teatro",
@@ -516,9 +516,9 @@ export default async (models) => {
 
         },
         {
-            imgPath: "https://a.cdn-hotels.com/gdcs/production86/d1205/3596db38-0609-4f0d-b7be-1a98527384c6.jpg",
-            description: "The Buen Retiro Park, Retiro Park or simply El Retiro is one of the largest parks of the city of Madrid, Spain. The park belonged to the Spanish Monarchy until the late 19th century, when it became a public park. In 2021, Buen Retiro Park became part of a combined UNESCO World Heritage Site with Paseo del Prado.",
-            heading: "madrid-El Retiro Park",
+            imgPath: "https://bstatic.com/xdata/images/xphoto/1182x887/151600551.jpg?k=4da3bd59c99c41d160a4697d0dd70d0f8afa0079c4112046099020da674decd3&o=?size=S",
+            description: "The Royal Palace of Turin (Italian: Palazzo Reale di Torino) is a historic palace of the House of Savoy in the city of Turin in Northern Italy.",
+            heading: "Turin-Giardini Reali di Torino",
         },
 
         {
