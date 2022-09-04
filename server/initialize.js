@@ -206,27 +206,6 @@ export default async (models) => {
             type: "Aterballetto",
         },
         {
-            heading: "Il canto degli ulivi | I Bassifondi",
-            location: "Florence-Pitti Palace",
-            hours: "1 Sep - 7 Sep",
-            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=4",
-            type: "Aterballetto",
-        },
-        {
-            heading: "Anna Pirozzi",
-            location: "Florence-Pitti Palace",
-            hours: "1 Sep - 7 Sep",
-            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=3",
-            type: "Aterballetto",
-        },
-        {
-            heading: "Pretty Yende",
-            location: "Florence-Pitti Palace",
-            hours: "1 Sep - 7 Sep",
-            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=2",
-            type: "Aterballetto",
-        },
-        {
             heading: "Puglia Dance and Tarantula Spider Night",
             location: "Florence-Pitti Palace",
             hours: "1 Sep - 7 Sep",
@@ -276,13 +255,6 @@ export default async (models) => {
             type: "Marco D’Agostin",
         },
         {
-            heading: "Magic of a Star",
-            location: "Madrid-El Retiro Park",
-            hours: "1 Sep - 7 Sep",
-            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=7",
-            type: "Marco D’Agostin",
-        },
-        {
             heading: "Gianni Schicchi | Film",
             location: "Montreal-Montreal Park",
             hours: "1 Sep - 7 Sep",
@@ -294,13 +266,6 @@ export default async (models) => {
             location: "Florence-Pitti Palace",
             hours: "1 Sep - 7 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=4",
-            type: "Sharon Eyal",
-        },
-        {
-            heading: "TOSCA",
-            location: "London-London-Hyde Park",
-            hours: "1 Sep - 7 Sep",
-            url: "https://ali-ali.herokuapp.com/all-festival/poi?id=10",
             type: "Sharon Eyal",
         },
         {
