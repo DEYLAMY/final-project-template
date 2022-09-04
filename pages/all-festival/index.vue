@@ -41,6 +41,7 @@
         
       </div>
       <div class="row my-2 justify-content-end px-5">
+        <div class="col-lg-2 col-md-2 d-grid my-1">
           <button @click="searchFunction" class="btn btn-primary rounded">
             Search
           </button>
