@@ -28,13 +28,11 @@
           <!-- <label for="categoryList1" class="form-label"></label> -->
           <select class="form-select" name="categoryList" id="categoryList1">
             <option selected disabled hidden>Category</option>
-            <option value="churches">Churches</option>
-            <option value="museums">Museums</option>
-            <option value="music">Music</option>
-            <option value="markets">Markets</option>
-            <option value="galleries">Galleries</option>
-            <option value="outdoor">Outdoor</option>
-            <option value="immersive">Immersive</option>
+            <option value="Dance">Dance</option>
+            <option value="">Museums</option>
+            <option value="Music">Music</option>
+            <option value="Theater">Theater</option>
+            <option value="Opera">Opera</option>
             <option value="All">All</option>
           </select>
         </div>
@@ -42,9 +40,11 @@
           <!-- <label for="categoryList2" class="form-label"></label> -->
           <select class="form-select" name="categoryList" id="categoryList2">
             <option selected disabled hidden>Neighbourhood</option>
-            <option value="East">East</option>
-            <option value="South">South</option>
-            <option value="West">West</option>
+            <option value="Florence">Florence</option>
+            <option value="Montreal">Montreal</option>
+            <option value="Madrid">Madrid</option>
+            <option value="Venice">Venice</option>
+            <option value="London">London</option>
             <option value="All">All</option>
           </select>
         </div>
