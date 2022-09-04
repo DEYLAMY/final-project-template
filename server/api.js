@@ -45,6 +45,7 @@ async function initializeDatabaseConnection() {
         imgPathText: DataTypes.STRING,
         category: DataTypes.STRING,
         url: DataTypes.STRING,
+        Neighbourhood: DataTypes.STRING,
     })
     
 
