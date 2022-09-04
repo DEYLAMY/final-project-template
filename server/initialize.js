@@ -182,14 +182,14 @@ export default async (models) => {
             imgPathMain: "https://www.puccinifestival.it/wp-content/uploads/2022/08/tosca-2.jpg",
             descriptionMain: "osca is undoubtedly Puccini's most dramatic opera, cruelty and sadism provide the backdrop for the story of love and death set in Rome in the 1800s.At the Puccini Festival 2022 it will be presented in a production by Pier Luigi Pizzi, with Enrico Calesso on the podium of the Puccini Festival Orchestra.Pizzi, who also designed the sets and costumes,  makes a temporal shift from the Rome of the Napoleonic era to the Italy of the late 1930s.",
             heading: "TOSCA",
-            address: "London-London-Hyde Park",
+            address: "Naples-Real Bosco di Capodimonte",
             hours: "1 Sep - 7 Sep",
             cost: "Free",
             imgPathText: "https://www.puccinifestival.it/wp-content/uploads/2022/08/tosca-3.jpg",
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "opera",
             url: "https://www.puccinifestival.it/en/tosca_2022/",
-            Neighbourhood: "london",
+            Neighbourhood: "Naples",
             
         },
       
@@ -238,7 +238,7 @@ export default async (models) => {
         },
         {
             heading: "TOSCA",
-            location: "London-London-Hyde Park",
+            location: "Naples-Real Bosco di Capodimonte",
             hours: "1 Sep - 7 Sep",
             url: "https://ali-ali.herokuapp.com/all-festival/poi?id=10",
             type: "Beatrice Bresolin",
@@ -517,14 +517,14 @@ export default async (models) => {
         },
         {
             imgPath: "https://bstatic.com/xdata/images/xphoto/1182x887/151600551.jpg?k=4da3bd59c99c41d160a4697d0dd70d0f8afa0079c4112046099020da674decd3&o=?size=S",
-            description: "The Royal Palace of Turin (Italian: Palazzo Reale di Torino) is a historic palace of the House of Savoy in the city of Turin in Northern Italy.",
+            description: "The Royal Palace of Turin (Italian: Palazzo Reale di Torino) is a historic palace of the House of Savoy in the city of Turin in Northern Italy.This 18th-century museum houses magnificent collections from such renowned artists as Masaccio, Titian, Raphael, El Greco and Bruegel, including the immense Farnese collection.",
             heading: "Turin-Giardini Reali di Torino",
         },
 
         {
-            imgPath: "https://www.travellens.co/content/images/2022/03/Hyde-Park-london.jpg",
-            description: "Hyde Park is a Grade I-listed major park in Central London. It is the largest of four Royal Parks that form a chain from the entrance of Kensington Palace through Kensington Gardens and Hyde Park, via Hyde Park Corner and Green Park past the main entrance to Buckingham Palace. The park is divided by the Serpentine and the Long Water lakes. The park was established by Henry VIII in 1536 when he took the land from Westminster Abbey and used it as a hunting ground. It opened to the public in 1637 and quickly became popular, particularly for May Day parades. Major improvements occurred in the early 18th century under the direction of Queen Caroline. Several duels took place in Hyde Park during this time, often involving members of the nobility. The Great Exhibition of 1851 was held in the park, for which The Crystal Palace, designed by Joseph Paxton, was erected.",
-            heading: "London-Hyde Park",
+            imgPath: "https://visit.marketing-italia.eu/uploads/visitnaples/uploads_articoli/evidenza/2020022710041020200128164214bosco%20di%20capodimonte.jpg",
+            description: "This 18th-century museum houses magnificent collections from such renowned artists as Masaccio, Titian, Raphael, El Greco and Bruegel, including the immense Farnese collection.This 18th-century museum houses magnificent collections from such renowned artists as Masaccio, Titian, Raphael, El Greco and Bruegel, including the immense Farnese collection.",
+            heading: "Naples-Real Bosco di Capodimonte",
         },
         {
             imgPath: "https://www.mtlblog.com/media-library/image.jpg?id=26890332&width=1245&height=700&quality=85&coordinates=40%2C0%2C40%2C0",
