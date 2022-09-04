@@ -29,7 +29,6 @@
           <select class="form-select" name="categoryList" id="categoryList1">
             <option selected disabled hidden>Category</option>
             <option value="dance">Dance</option>
-            <option value="">museums</option>
             <option value="music">Music</option>
             <option value="theater">Theater</option>
             <option value="opera">Opera</option>
