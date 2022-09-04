@@ -116,7 +116,6 @@ export default {
                 imgPathMain: data[i].imgPathMain,
                 descriptionMain: data[i].descriptionMain,
                 heading: data[i].heading,
-                id: data[i].id,
                 Neighbourhood: data[i].Neighbourhood,
               });
             }
@@ -125,7 +124,6 @@ export default {
               imgPathMain: data[i].imgPathMain,
               descriptionMain: data[i].descriptionMain,
               heading: data[i].heading,
-              id: data[i].id,
               Neighbourhood: data[i].Neighbourhood,
             });
           } else if (filter1 == "All") {
@@ -134,7 +132,6 @@ export default {
                 imgPathMain: data[i].imgPathMain,
                 descriptionMain: data[i].descriptionMain,
                 heading: data[i].heading,
-                id: data[i].id,
                 Neighbourhood: data[i].Neighbourhood,
               });
             }
@@ -144,7 +141,6 @@ export default {
                 imgPathMain: data[i].imgPathMain,
                 descriptionMain: data[i].descriptionMain,
                 heading: data[i].heading,
-                id: data[i].id,
                 Neighbourhood: data[i].Neighbourhood,
               });
             }
