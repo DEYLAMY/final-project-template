@@ -508,37 +508,29 @@ export default async (models) => {
             imgPath: "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_headers/51360/2000x2000-0-70-29bde528fdc139b63abfe78184fd1957.jpg",
             description: "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly Renaissance, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio",
             heading: "Florence-Pitti Palace",
-            duration: "",
-            imgPathMap: ""
         },
         {
             imgPath: "https://www.ourescapeclause.com/wp-content/uploads/2021/08/shutterstock_1372373447-scaled.jpg",
             description: "Piazza San Marco, often known in English as St Mark's Square, is the principal public square of Venice, Italy, where it is generally known just as la Piazza. All other urban spaces in the city are called campi. The Piazzetta is an extension of the Piazza towards San Marco basin in its south east corner. ",
             heading: "venice-St. Mark's Square",
-            duration: "",
-            imgPathMap: "",
+
         },
         {
             imgPath: "https://a.cdn-hotels.com/gdcs/production86/d1205/3596db38-0609-4f0d-b7be-1a98527384c6.jpg",
             description: "The Buen Retiro Park, Retiro Park or simply El Retiro is one of the largest parks of the city of Madrid, Spain. The park belonged to the Spanish Monarchy until the late 19th century, when it became a public park. In 2021, Buen Retiro Park became part of a combined UNESCO World Heritage Site with Paseo del Prado.",
             heading: "madrid-El Retiro Park",
-            duration: "",
-            imgPathMap: "",
         },
 
         {
             imgPath: "https://www.travellens.co/content/images/2022/03/Hyde-Park-london.jpg",
             description: "Hyde Park is a Grade I-listed major park in Central London. It is the largest of four Royal Parks that form a chain from the entrance of Kensington Palace through Kensington Gardens and Hyde Park, via Hyde Park Corner and Green Park past the main entrance to Buckingham Palace. The park is divided by the Serpentine and the Long Water lakes. The park was established by Henry VIII in 1536 when he took the land from Westminster Abbey and used it as a hunting ground. It opened to the public in 1637 and quickly became popular, particularly for May Day parades. Major improvements occurred in the early 18th century under the direction of Queen Caroline. Several duels took place in Hyde Park during this time, often involving members of the nobility. The Great Exhibition of 1851 was held in the park, for which The Crystal Palace, designed by Joseph Paxton, was erected.",
             heading: "London-Hyde Park",
-            duration: "",
-            imgPathMap: "",
         },
         {
             imgPath: "https://www.mtlblog.com/media-library/image.jpg?id=26890332&width=1245&height=700&quality=85&coordinates=40%2C0%2C40%2C0",
             description: "At the northern tippy top of the island, this lovely park meanders along the verdant grassy knolls that line the banks of Rivière-des-Prairies, with occasional detours onto Henri Bourassa Street, where you’ll spot some of the city’s oldest farmhouses. Walking eastward, when you reach the little inlet at Gouin and Papineau, go explore the trails near Simon Sicard Dam. The views of the river are great.",
             heading: "Montreal-Montreal Park",
-            duration: "",
-            imgPathMap: ""
+
         },
 
     ]
