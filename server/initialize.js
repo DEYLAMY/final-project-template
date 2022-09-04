@@ -64,6 +64,7 @@ export default async (models) => {
             imgPathMap: "https://www.google.com/maps/d/thumbnail?mid=10VmHW_IKbqVsLo3GSftdvHCyAJM&hl=en",
             category: "Dance",
             url: "https://www.itinari.com/zh/apulian-dances-and-the-night-of-the-tarantula-xjaf",
+            Neighbourhood: "Florence",
             
         },
         {
@@ -76,7 +77,8 @@ export default async (models) => {
             imgPathText: "https://www.festivaldellavalleditria.it/wp-content/uploads/2022/04/xBANNER-415X250_202211.jpg.pagespeed.ic.ZG598FW7Pw.webp",
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "Dance",
-            url: "https://www.c.it/en/spettacolo/pretty-yende",            
+            url: "https://www.c.it/en/spettacolo/pretty-yende",
+            Neighbourhood: "Florence",
         },
         {
             imgPathMain: "https://www.festivaldellavalleditria.it/wp-content/uploads/2022/04/xBANNER-415X250_202212.jpg.pagespeed.ic.FjALU91zgD.webp",
@@ -89,6 +91,7 @@ export default async (models) => {
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "Music",
             url: "https://www.festivaldellavalleditria.it/en/spettacolo/anna-pirozzi",
+            Neighbourhood: "Florence",
             
         },
         {
@@ -102,6 +105,7 @@ export default async (models) => {
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "Music",
             url: "https://www.festivaldellavalleditria.it/en/spettacolo/il-canto-degli-ulivi-i-bassifondi",
+            Neighbourhood: "Florence",
             
         },
         {
@@ -115,6 +119,7 @@ export default async (models) => {
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "Music",
             url: "https://www.festivaldellavalleditria.it/en/spettacolo/il-canto-degli-ulivi-giulia-semenzato",
+            Neighbourhood: "Florence",
             
         },
         {
@@ -128,6 +133,7 @@ export default async (models) => {
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "Music",
             url: "https://www.festivaldellavalleditria.it/en/spettacolo/gianni-schicchi-film",
+            Neighbourhood: "Montreal",
             
         },
         {
@@ -141,6 +147,7 @@ export default async (models) => {
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "Theater",
             url: "https://giornaledelladanza.com/luciana-savignano-magia-di-una-stella/",
+            Neighbourhood: "Madrid",
             
         },
         {
@@ -154,6 +161,7 @@ export default async (models) => {
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "Theater",
             url: "https://www.festivaldellavalleditria.it/en/spettacolo/silent-carmen-film",
+            Neighbourhood: "Venice",
             
         },
         {
@@ -167,6 +175,7 @@ export default async (models) => {
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "Opera",
             url: "https://www.puccinifestival.it/en/madama_butterfly_2022/",
+            Neighbourhood: "Venice",
             
         },
         {
@@ -180,6 +189,7 @@ export default async (models) => {
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "Opera",
             url: "https://www.puccinifestival.it/en/tosca_2022/",
+            Neighbourhood: "London",
             
         },
       
