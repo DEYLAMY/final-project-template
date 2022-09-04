@@ -28,11 +28,11 @@
           <!-- <label for="categoryList1" class="form-label"></label> -->
           <select class="form-select" name="categoryList" id="categoryList1">
             <option selected disabled hidden>Category</option>
-            <option value="Dance">Dance</option>
-            <option value="">Museums</option>
-            <option value="Music">Music</option>
-            <option value="Theater">Theater</option>
-            <option value="Opera">Opera</option>
+            <option value="dance">Dance</option>
+            <option value="">museums</option>
+            <option value="music">Music</option>
+            <option value="theater">Theater</option>
+            <option value="opera">Opera</option>
             <option value="All">All</option>
           </select>
         </div>
@@ -40,11 +40,11 @@
           <!-- <label for="categoryList2" class="form-label"></label> -->
           <select class="form-select" name="categoryList" id="categoryList2">
             <option selected disabled hidden>Neighbourhood</option>
-            <option value="Florence">Florence</option>
-            <option value="Montreal">Montreal</option>
-            <option value="Madrid">Madrid</option>
-            <option value="Venice">Venice</option>
-            <option value="London">London</option>
+            <option value="florence">Florence</option>
+            <option value="montreal">Montreal</option>
+            <option value="madrid">Madrid</option>
+            <option value="venice">Venice</option>
+            <option value="london">London</option>
             <option value="All">All</option>
           </select>
         </div>
