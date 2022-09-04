@@ -17,8 +17,8 @@
           class="col-md-8 col-9 col-sm-9 my-sm-auto text-center text-sm-start"
         >
           <p class="text-light">
-        in this page you can see a list of all festivals all around the Europe also you have an ability to filter your festival search base on different categories
-         </p>
+          in this page you can see a list of all festivals all around the Europe also you have an ability to filter your festival search base on different categories
+          </p>
         </div>
       </div>
 
@@ -28,10 +28,23 @@
           <!-- <label for="categoryList1" class="form-label"></label> -->
           <select class="form-select" name="categoryList" id="categoryList1">
             <option selected disabled hidden>Category</option>
-            <option value="Dance">Dance</option>
-            <option value="Music">Music</option>
-            <option value="Theater">Theater</option>
-            <option value="Opera">Opera</option>
+            <option value="churches">Churches</option>
+            <option value="museums">Museums</option>
+            <option value="music">Music</option>
+            <option value="markets">Markets</option>
+            <option value="galleries">Galleries</option>
+            <option value="outdoor">Outdoor</option>
+            <option value="immersive">Immersive</option>
+            <option value="All">All</option>
+          </select>
+        </div>
+        <div class="col-md-5 col-sm-6 my-1">
+          <!-- <label for="categoryList2" class="form-label"></label> -->
+          <select class="form-select" name="categoryList" id="categoryList2">
+            <option selected disabled hidden>Neighbourhood</option>
+            <option value="East">East</option>
+            <option value="South">South</option>
+            <option value="West">West</option>
             <option value="All">All</option>
           </select>
         </div>
@@ -45,8 +58,6 @@
       </div>
     </div>
     <!-- end of top section -->
-
-    <!-- bottom section -->
 
     <pointOfInterest
       v-for="(festival, festivalIndex) of data"
