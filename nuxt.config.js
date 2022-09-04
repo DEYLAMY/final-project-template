@@ -21,7 +21,7 @@ export default {
         name: "description",
         content: "Summer Festival",
       },
-      { property: "og:site_name", content: "Montreal Website" },
+      { property: "og:site_name", content: "Summer Festival Website" },
       { hid: "og:type", property: "og:type", content: "website" },
       {
         hid: "og:url",
@@ -36,9 +36,9 @@ export default {
       {
         hid: "og:description",
         property: "og:description",
-        content: "Website for Summer Festival to know how the beautiful art of Montreal.",
+        content: "Website for Summer Festival to know better places for Summer Festival.",
       },
-      { hid: 'keywords', name: 'keywords', content: 'what to see in Summer Festival, Summer Festival, Summer Festival short topic, where to go in Summer Festival, sightseeing, events in Summer Festival, service in Summer Festival, places in Summer Festival, Summer Festival, summer in Summer Festival, bixi, Metro, igloofest' },
+      { hid: 'keywords', name: 'keywords', content: 'what to see in Summer Festival, Summer Festival, Summer Festival short topic, where to go in Summer Festival, sightseeing, events in Summer Festival, service in Summer Festival, places in Summer Festival, Summer Festival, summer in Summer Festival, bixi, igloofest' },
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [
