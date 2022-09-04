@@ -6,6 +6,9 @@
         <p class="text">
        with warm weather around the corner and restrictions slowly being lifted, summer 2022 is looking fun and, after almost 2 years, back to normal. If you’re traveling through Italy and are looking to spruce up your holiday with some good music, look no further: we got you covered with a great selection of Italy’s best summer festivals!.
         </p>
+        <p class="text">
+        people who design this project is ALI DEYLMAY (10704480)-Hou Xiaodi (10777895)
+        </p>
       </div>
       <div class="col-sm-5">
         <img
