@@ -41,9 +41,9 @@
             <option selected disabled hidden>Neighbourhood</option>
             <option value="florence">Florence</option>
             <option value="montreal">Montreal</option>
-            <option value="madrid">Madrid</option>
+            <option value="Turin">Turin</option>
             <option value="venice">Venice</option>
-            <option value="london">London</option>
+            <option value="Naples">Naples</option>
             <option value="All">All</option>
           </select>
         </div>
