@@ -95,8 +95,7 @@ async function initializeDatabaseConnection() {
         imgPath: DataTypes.STRING,
         description: DataTypes.TEXT,
         heading: DataTypes.STRING,
-        duration: DataTypes.STRING,
-        imgPathMap: DataTypes.STRING,
+
     })
 
     await database.sync({ force: true })
